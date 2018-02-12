@@ -1,2 +1,2 @@
 # webpage.html
-![PyramidPictures](screenshot/Pyramids.png)
+![PyramidPicture](screenshot/Pyramids.png)
